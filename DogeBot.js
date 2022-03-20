@@ -198,7 +198,7 @@ module.exports = DogeXeonOP = async (DogeXeonOP, mek, _welkom) => {
 			try {
 		pporang = await DogeXeonOP.getProfilePicture(`${sender.split('@')[0]}@s.whatsapp.net`)
 		      } catch {
-		pporang = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+		pporang = 'https://i.imgur.com/0hsklk8.jpeg'
 		      }
 		const ofrply = await getBuffer(pporang)
 
