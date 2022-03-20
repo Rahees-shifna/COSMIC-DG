@@ -76,12 +76,12 @@ ownername = setting.OwnerName
 gaya1 = setting.gaya1
 gaya2 = setting.gaya2
 const fakeimage = fs.readFileSync ('./media/dogepic1.jpg')
-const thumb = fs.readFileSync ('./media/dogetb.jpg')
+const thumb = fs.readFileSync ('./media/logo1.jpg')
 
 //══════════[ Developer Number ]══════════//
 
-developerNo = '916909137213'
-developerName= '🦄Dream Guy Xeon'
+developerNo = '917025191792'
+developerName= '🦄KHADHER'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
@@ -436,7 +436,7 @@ let ane = []
 for (let i of members){
 ane.push(i.jid)
 }
-DogeXeonOP.sendMessage(from, {text:text, jpegThumbnail:fs.readFileSync('media/dogepic1.jpg')}, 'extendedTextMessage', {contextInfo: {"mentionedJid": ane}})
+DogeXeonOP.sendMessage(from, {text:text, jpegThumbnail:fs.readFileSync('media/logo1.jpg')}, 'extendedTextMessage', {contextInfo: {"mentionedJid": ane}})
 }
 const hideTagKontak = async function(from, nomor, nama){
 let vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + nama + '\n' + 'ORG:Kontak\n' + 'TEL;type=CELL;type=VOICE;waid=' + nomor + ':+' + nomor + '\n' + 'END:VCARD'
