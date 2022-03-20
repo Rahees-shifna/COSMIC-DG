@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="animated" />
+  <img src="https://vimeo.com/690161703" alt="animated" />
 </p>
 
 <p align="center">
