@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vimeo.com/690161703" alt="animated" />
+  <img src="https://i.imgur.com/0hsklk8.jpeg" alt="animated" />
 </p>
 
 <p align="center">
