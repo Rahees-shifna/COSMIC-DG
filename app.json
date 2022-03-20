@@ -1,8 +1,8 @@
 {
-  "name": "DogeBotV3",
+  "name": "COSMO-DG",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/DGXeon/DogeBot3",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
+  "repository": "https://github.com/khadher05/COSMO-DG",
+  "logo": "https://i.imgur.com/0hsklk8.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
