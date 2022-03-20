@@ -1470,6 +1470,8 @@ menu =
 \`\`\`OPEN FOR SC :\`\`\`
 ➪ *Wanna buy this script? :* _Price: ₹250 (India)_
 
+KHADHERN MESSEGE AYAKK
+
 For those who want to buy script or interested in any of the above
 Can request, if interested please contact the developer`
 DogeXeonOP.sendMessage(from, { contentText: `${menu}`, footerText: `*_${tanggal} - ${time}_*`, buttons: [{ buttonId: `${prefix}payment`, buttonText: { displayText: 'PAYMENT 💸' }, type: 1 },{ buttonId: `${prefix}developer`, buttonText: { displayText: 'DEVELOPER 👨🏼‍💻' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [senderr]}}}, 'buttonsMessage')
@@ -1477,7 +1479,7 @@ break
 case 'bayar':
 case 'payment':
 
-gambar = fs.readFileSync('./media/logo1.pg')
+gambar = fs.readFileSync('./media/logo1.png')
 menunya = `*「 PAYMENT 」*
 
 • Note: Talk to the owner before payment
@@ -2837,7 +2839,7 @@ members_ids.push(mem.jid)
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + `FN:${ownername}\n`
-+ `ORG: Owner Of Doge Bot ;\n`
++ `ORG: Owner Of COSMIC BOT ;\n`
 + `TEL;type=CELL;type=VOICE;waid=${owner}:${owner}\n`
 + 'END:VCARD'.trim()
 DogeXeonOP.sendMessage(from, {displayName: `The owner ${botname}`, vcard: vcard2}, contact, 
@@ -4932,7 +4934,7 @@ reply(`${err}`)
     e = String(e)
     if (!e.includes("this.isZero") && !e.includes("jid")) {
 	console.log('Error : %s', color(e, 'red'))
-	DogeXeonOP.sendMessage(`${owner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "KHADHER",body:"Dont forget to follow khadher",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/logo1.jpg'),sourceUrl:"https://wa.me/91702519179"}}})
+	DogeXeonOP.sendMessage(`${owner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "KHADHER",body:"Dont forget to follow khadher",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/logo1.jpg'),sourceUrl:"https://wa.me/917025191792"}}})
         }
 	// console.log(e)
 	}
