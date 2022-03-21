@@ -39,8 +39,8 @@ console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/917025191792'))
-    console.log(color('[DOGE BOT]'), color('Doge Bot Is Online', 'aqua'))
-    console.log(color('[DEV]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
+    console.log(color('[COSMIC BOT]'), color('COSMIC BOT Is Online', 'aqua'))
+    console.log(color('[KHADHER]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('<>','red'), color('Thanks For Using COSMIC BOT', 'white'))
 	DogeXeonOP.browserDescription = [ 'FOLLOW KHADHER', 'chrome', '3.0' ]
     DogeXeonOP.on('qr', () => {
