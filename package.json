@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOTZ-DHANI"
+    "url": "git+https://github.com/khadher05"
   },
   "keywords": [
     "Wasu"
@@ -54,5 +54,5 @@
   "bugs": {
     "url": "https://github.com/BOTZ-DHANI/Base-DhaniGans/issue"
   },
-  "homepage": "https://github.com/BOTZ-DHANI/BOTZ-DHANI"
+  "homepage": "https://github.com/khadher05"
 }
