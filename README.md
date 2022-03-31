@@ -126,7 +126,7 @@ FORK BOT WHILE CLICKING THIS LINK
 
 3.SCAN QR CODE {turn your browser to desctop site}
 
-SCAN QR CODE BY CLICKING *[RUN ON RUPL.IT]* BUTTON ON THIS WEB SITE {https://github.com/khadher05/COSMIC-DG}
+SCAN QR CODE BY CLICKING *[RUN ON RUPL.IT]* BUTTON ON THIS WEB SITE {https://github.com/khadher05/COSMIC-DG }
 
 HOW TO SCAN 
 -------------------------
