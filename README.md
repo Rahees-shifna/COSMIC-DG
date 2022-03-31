@@ -45,6 +45,9 @@ heroku/nodejs
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khadher05/COSMIC-DG)
 
+## ` ANY DOUBT`
+[ANY DOUBT](https://cutt.ly/4Sbv2mi)
+
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -100,70 +103,9 @@ My Whatsapp Group👇
 
 
 
+## ` CONTACT OWNER`
+[CLICK HERE](wa.me/917025191792)
 
 
 
-HOW TO DEPLOY👇
-----------------
-
-
-1.FIRST U WANT 
-GITHUB AND HEROKU ACCOUND WITH SAME EMAIL ID
-
-
-https://github.com
-
-https://id.heroku.com/login
-
-2.FORK COSMIC-DG BOT 
-
-https://github.com/khadher05/COSMIC-DG/fork 
-
-FORK BOT WHILE CLICKING THIS LINK
-
-3.SCAN QR CODE {turn your browser to desctop site}
-
-SCAN QR CODE BY CLICKING *[RUN ON RUPL.IT]* BUTTON ON THIS WEB SITE {https://github.com/khadher05/COSMIC-DG }
-
-HOW TO SCAN 
--------------------------
-
- ON YOUR WHATSAPP --> 3 DOT ON THE TOP -->LINKED DEVICES --> LINK A DEVICE --> SCAN QR CODE
-
-4.COPY YOUR CODE 
-
-THERE A CODE WILL COME TO YOUR SCANNED WHATSAPP
-
-EG:- 
-{"clientID":"9Ni44ZnY9s7KOgbU8PDYYA==","serverToken":"1@qbeY59qTeCtb7JVoOGlC3XWE3TMTUC7ThCEvrVVaChM611gL+PlmNnqRAUFZ1h5H/R0AaLivOusPkDw==","clientToken":"bNpwQos+klP9ehppCP05cRtDgeER4+KjA=","encKey":"dmc014gYaghiqMSKKgu2Bw3sFpT/G/x1KuyE5i2kZUg=","macKey":"oeriBUhgJiVT8JqSPcyQdUutr2v2Ay2FVpUXgkVh4Zs="}
-
-5.GO TO YOUR BOT {change your browser to desktop site}
-
-GO TO YOUR GIT HUB BOT
-
-HOW TO GET YOUR FORKED BOT
--------------------------------------------------------
-https://github.com/khadher05/COSMIC-DG
-
-*CHANGE KHADHER05 TO YOUR GITHUB USER NAME*
-
-6.CLICK ON CHANGE SESSION BUTTON 
-
-THERE WILL A BUTTON NEAR THE QR SCANNING BUTTON
-
-7.EDIT (change) SESSION
-
-CLICK ON THE PENCIL BUTTON AND CLEAR ALL TEXT AND PASTE YOUR CODE 
-
-[*_DEPLOY SESSION_*]
-
-8.DEPLOY YOUR BOT 
-
-CLICK ON [DEPLOY TO HEROKU] BUTTON
-
-*OTHER STEP ARE AVAILABLE ON THIS WEB SITE*
-
-THERE IS A VIDEO ON WEBSITE
-
-WEBSITE --> https://cutt.ly/4Sbv2mi)
 
