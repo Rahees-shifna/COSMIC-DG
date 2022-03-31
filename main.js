@@ -25,7 +25,7 @@ nocache('./COSMIC.js', module => console.log(`${module} telah di update!`))
 const starts = async (DogeXeonOP = new WAConnection()) => {
     DogeXeonOP.logger.level = 'warn'
     DogeXeonOP.version = [2, 2142, 12]
-    console.log(color(figlet.textSync('Doge Bot', {
+    console.log(color(figlet.textSync('COSMIC-DG', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -55,7 +55,7 @@ console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
         success('2', 'Connected ✓.COSMIC DG BOT WORKING SUCCESSFULLY NOW💖')
     })
         //inform to developer that the user is connected to bot
-    DogeXeonOP.sendMessage(`917025191792@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number *KHADHER POLI ALLE*`, MessageType.extendedText)
+    DogeXeonOP.sendMessage(`917025191792@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number *KHADHER POLI ALLE* https://github.com/Khadher05/AFIYA-MWOL`, MessageType.extendedText)
     
     //group link target
     teks = `https://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X`
@@ -118,7 +118,7 @@ DogeXeonOP.on("group-participants-update", async (anu) => {
       time_welc = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
       time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
       memeg = mdata.participants.length
-      out = `   ⃟🐶⃟    𝙂𝙤𝙤𝙙𝙗𝙮𝙚 _*@${num.split('@')[0]}*_\n   ⃟🐶⃟    *_IPPO LEFT AAYAVANI NALLA BUDHI THONNIKKANNEEEEE🤲🤲_*`
+      out = `   ⃟🐶    𝙂𝙤𝙤𝙙𝙗𝙮𝙚 _*@${num.split('@')[0]}*_\n   ⃟🐶⃟    *_IPPO LEFT AAYAVANI NALLA BUDHI THONNIKKANNEEEEE🤲🤲_*`
       goodbyeBut = [{buttonId:`#gbye`,buttonText:{displayText:'BYE 👋'},type:1}, {buttonId:`#menu`,buttonText:{displayText:'MENU 🗂️'}, type:1}]
       goodbyeButt = { contentText: `${out}`, footerText: `*_COSMIC BOT_*`, buttons: goodbyeBut, headerType: 6, locationMessage: bosco3.message.locationMessage}
       DogeXeonOP.sendMessage(mdata.id, goodbyeButt, MessageType.buttonsMessage, { caption: 'buffer', "contextInfo": { "mentionedJid" : [num], },})
