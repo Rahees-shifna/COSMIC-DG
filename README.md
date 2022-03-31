@@ -102,9 +102,7 @@ My Whatsapp Group👇
 
 
 
-
-## ` CONTACT OWNER`
-[CLICK HERE](wa.me/917025191792)
+## ` THANK YOU FOR CHOOSING COSMIC-DG BOT 💖`
 
 
 
