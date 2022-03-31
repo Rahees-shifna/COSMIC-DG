@@ -1,6 +1,6 @@
-#BOT @ MAINTAINCE
+
 <p align="center">
-  <img src="https://www.linkpicture.com/q/IMG-20220327-WA0077.jpg" alt="animated" />
+  <img src="https://www.linkpicture.com/q/logo1_21.png" alt="animated" />
 </p>
 
 <p align="center">
