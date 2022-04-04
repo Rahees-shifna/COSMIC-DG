@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://www.linkpicture.com/q/logo1_21.png" alt="animated" />
+  <img src="https://www.linkpicture.com/q/Rahees.jpg" alt="animated" />
 </p>
 
 <p align="center">
-<strong>COSMIC DG</strong>
+<strong>𝙍𝘼𝙃𝙀𝙀𝙎</strong>
 </p>
 
 </div>
