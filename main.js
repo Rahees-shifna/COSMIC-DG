@@ -1,6 +1,6 @@
 //pls give credit if you reupload 
 //or copy the codes
-//© 2022 cosmic Bot Inc. KHADHER
+//© 2022 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 Bot Inc. 𝙍𝘼𝙃𝙀𝙀𝙎
 const {
     WAConnection,
     MessageType,
@@ -19,30 +19,30 @@ const setting = JSON.parse(fs.readFileSync('./setting/setting.json'))
 session = setting.session
 
 
-require('./COSMIC.js')
-nocache('./COSMIC.js', module => console.log(`${module} telah di update!`))
+require('./𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍.js')
+nocache('./𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍.js', module => console.log(`${module} telah di update!`))
 
 const starts = async (DogeXeonOP = new WAConnection()) => {
     DogeXeonOP.logger.level = 'warn'
     DogeXeonOP.version = [2, 2142, 12]
-    console.log(color(figlet.textSync('COSMIC-DG', {
+    console.log(color(figlet.textSync('𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍-DG', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
 		width: 80,
 		whitespaceBreak: false
 	}), 'cyan'))
-	console.log(color('\n> yt channel: cosmic modz ','silver'))
-console.log(color('> GITHUB: khadher05 ','silver'))
-console.log(color('> WA NUMBER: +917025191792 ','silver'))
-console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
+	console.log(color('\n> yt channel: 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 modz ','silver'))
+console.log(color('> GITHUB: 𝙍𝘼𝙃𝙀𝙀𝙎05 ','silver'))
+console.log(color('> WA NUMBER: +917994206751 ','silver'))
+console.log(color('  𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
-    console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/917025191792'))
-    console.log(color('[COSMIC BOT]'), color('COSMIC BOT Is Online', 'aqua'))
-    console.log(color('[KHADHER]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('<>','red'), color('Thanks For Using COSMIC BOT', 'white'))
-	DogeXeonOP.browserDescription = [ 'FOLLOW KHADHER:__khadher__', 'chrome', '3.0' ]
+    console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/917994206751'))
+    console.log(color('[𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT]'), color('𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT Is Online', 'aqua'))
+    console.log(color('[𝙍𝘼𝙃𝙀𝙀𝙎]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
+    console.log(color('<>','red'), color('Thanks For Using 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT', 'white'))
+	DogeXeonOP.browserDescription = [ 'FOLLOW 𝙍𝘼𝙃𝙀𝙀𝙎:__𝙍𝘼𝙃𝙀𝙀𝙎__', 'chrome', '3.0' ]
     DogeXeonOP.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code in only 20 seconds !!'))
     })
@@ -52,10 +52,10 @@ console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
         start('2', 'Loading ...')
     })
     DogeXeonOP.on('open', () => {
-        success('2', 'Connected ✓.COSMIC DG BOT WORKING SUCCESSFULLY NOW💖')
+        success('2', 'Connected ✓.𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 DG BOT WORKING SUCCESSFULLY NOW💖')
     })
         //inform to developer that the user is connected to bot
-    DogeXeonOP.sendMessage(`917025191792@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number *KHADHER POLI ALLE* https://github.com/Khadher05/AFIYA-MWOL`, MessageType.extendedText)
+    DogeXeonOP.sendMessage(`917994206751@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number *𝙍𝘼𝙃𝙀𝙀𝙎 POLI ALLE*https://github.com/Rahees-shifna/COSMIC-DG/tree/Rahees-shifna-patch-1`, MessageType.extendedText)
     
     //group link target
     teks = `https://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X`
@@ -65,7 +65,7 @@ console.log(color('  cosmic bot Inc. 2022','mediumseagreen'))
         fs.writeFileSync(`./${session}.json`, JSON.stringify(DogeXeonOP.base64EncodedAuthInfo(), null, '\t'))
 
     DogeXeonOP.on('chat-update', async (message) => {
-        require('./COSMIC.js')(DogeXeonOP, message, _welkom)
+        require('./𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍.js')(DogeXeonOP, message, _welkom)
     })
 DogeXeonOP.on("group-participants-update", async (anu) => {
 
@@ -105,7 +105,7 @@ DogeXeonOP.on("group-participants-update", async (anu) => {
       time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
       teks = `   ⃟🐶⃟    𝙃𝙞 _*@${num.split('@')[0]}*_ \n   ⃟🐶⃟    𝘽𝙞𝙤 : _*${thu.status}*_ \n   ⃟🐶⃟    𝙈𝙚𝙢𝙗𝙚𝙧 : _*${memeg}*_ \n   ⃟🐶⃟    𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 _*${mdata.subject}*_\n   ⃟🐶⃟    𝘿𝙤𝙣𝙩 𝙁𝙤𝙧𝙜𝙚𝙩 𝙏𝙤 𝙍𝙚𝙖𝙙 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣`
       welcomeBut = [{buttonId:`#menu`,buttonText:{displayText:'MENU 🗂️'},type:1}, {buttonId:`#getdesc`,buttonText:{displayText:'READ DESC 📋'},type:1}]
-      welcomeButt = { contentText: `${teks}`, footerText: `*_COSMIC BOT_*`, buttons: welcomeBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
+      welcomeButt = { contentText: `${teks}`, footerText: `*_𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT_*`, buttons: welcomeBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
       DogeXeonOP.sendMessage(mdata.id, welcomeButt, MessageType.buttonsMessage, { caption: 'buffer', "contextInfo": { "mentionedJid" : [num], },})
       }
       if (anu.action == 'remove' && !mem.includes(DogeXeonOP.user.jid)) {
@@ -120,7 +120,7 @@ DogeXeonOP.on("group-participants-update", async (anu) => {
       memeg = mdata.participants.length
       out = `   ⃟🐶    𝙂𝙤𝙤𝙙𝙗𝙮𝙚 _*@${num.split('@')[0]}*_\n   ⃟🐶⃟    *_IPPO LEFT AAYAVANI NALLA BUDHI THONNIKKANNEEEEE🤲🤲_*`
       goodbyeBut = [{buttonId:`#gbye`,buttonText:{displayText:'BYE 👋'},type:1}, {buttonId:`#menu`,buttonText:{displayText:'MENU 🗂️'}, type:1}]
-      goodbyeButt = { contentText: `${out}`, footerText: `*_COSMIC BOT_*`, buttons: goodbyeBut, headerType: 6, locationMessage: bosco3.message.locationMessage}
+      goodbyeButt = { contentText: `${out}`, footerText: `*_𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT_*`, buttons: goodbyeBut, headerType: 6, locationMessage: bosco3.message.locationMessage}
       DogeXeonOP.sendMessage(mdata.id, goodbyeButt, MessageType.buttonsMessage, { caption: 'buffer', "contextInfo": { "mentionedJid" : [num], },})
       }
     } catch (e) {

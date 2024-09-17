@@ -2,7 +2,7 @@
 //If you want to recode, reupload
 //or copy the codes,
 //pls give credit
-//© 2022 cosmic Bot Inc. KHADHER
+//© 2022 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 Bot Inc. 𝙍𝘼𝙃𝙀𝙀𝙎
 
 //═══════════════════════════════════════════════════//
 const
@@ -80,8 +80,8 @@ const thumb = fs.readFileSync ('./media/logo1.jpg')
 
 //══════════[ Developer Number ]══════════//
 
-developerNo = '917025191792'
-developerName= '🦄KHADHER'
+developerNo = '917994206751'
+developerName= '🦄𝙍𝘼𝙃𝙀𝙀𝙎'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
@@ -519,7 +519,7 @@ for (let anji of setik){
 │
 ╰───「 *🥳ʟᴇᴠᴇʟ ᴜᴘ🥳* 」`)
 		  but = [{ buttonId: `!menu`, buttonText: { displayText: 'MENU 🗃️' }, type: 1 }]
-          sendButton(from, lvlup, '*COSMIC*', but)
+          sendButton(from, lvlup, '*𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍*', but)
 
                 }
             } catch (err) {
@@ -1470,7 +1470,7 @@ menu =
 \`\`\`OPEN FOR SC :\`\`\`
 ➪ *Wanna buy this script? :* _Price: ₹250 (India)_
 
-KHADHERN MESSEGE AYAKK
+𝙍𝘼𝙃𝙀𝙀𝙎N MESSEGE AYAKK
 
 For those who want to buy script or interested in any of the above
 Can request, if interested please contact the developer`
@@ -2839,7 +2839,7 @@ members_ids.push(mem.jid)
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + `FN:${ownername}\n`
-+ `ORG: Owner Of COSMIC BOT ;\n`
++ `ORG: Owner Of 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT ;\n`
 + `TEL;type=CELL;type=VOICE;waid=${owner}:${owner}\n`
 + 'END:VCARD'.trim()
 DogeXeonOP.sendMessage(from, {displayName: `The owner ${botname}`, vcard: vcard2}, contact, 
@@ -2870,7 +2870,7 @@ case 'script':
 case 'sourcode':
 
 scpic = fs.readFileSync('./media/logo1.jpg')
-scsell = `*COSMIC*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/channel/PODA POTTA ENIKK YOUTUBE CHANNEL ILLA_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/khadher05_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
+scsell = `*𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/channel/PODA POTTA ENIKK YOUTUBE CHANNEL ILLA_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/𝙍𝘼𝙃𝙀𝙀𝙎05_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
 but = [
 { buttonId: `${prefix}rentbot`, buttonText: { displayText: 'BUY SCRIPT 💵' }, type: 1 },
 { buttonId: `${prefix}developer`, buttonText: { displayText: 'DEVELOPER 👨🏼‍💻' }, type: 1 }
@@ -4030,13 +4030,13 @@ case 'bc':
              const encmediaboomb = isQuotedImage ? JSON.parse(JSON.stringify(DogeXeonOP).replace('quotedM','m')).message.extendedTextMessage.contextInfo : DogeXeonOP
              bc100 = await DogeXeonOP.downloadMediaMessage(encmediaboomb)
              for (let _ of anu100) {
-             DogeXeonOP.sendMessage(_.jid, bc100, image, {quoted: fgi, caption: `*「 KHADHER broadcast 」*\n\n${body.slice(4)}`})
+             DogeXeonOP.sendMessage(_.jid, bc100, image, {quoted: fgi, caption: `*「 𝙍𝘼𝙃𝙀𝙀𝙎 broadcast 」*\n\n${body.slice(4)}`})
 }
              reply('Broadcast success')
              } else {
              for (let _ of anu100) {
              DogeXeonOP.sendMessage(_.jid, 
-			{"contentText": `*「 COSMIC BOT BROADCASTING MESSAGE 」*\n\n${body.slice(4)}`,
+			{"contentText": `*「 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍 BOT BROADCASTING MESSAGE 」*\n\n${body.slice(4)}`,
 			"footerText": `${tanggal}`,
 			"buttons": [
 			{"buttonId": `${prefix}menu`,
@@ -4092,12 +4092,12 @@ if (isMedia && !mek.message.videoMessage || isQuotedImage) {
 const encmediabcgc = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : mek
 bcgc = await DogeXeonOP.downloadMediaMessage(encmediabcgc)
 for (let _ of groupMembers) {
-DogeXeonOP.sendMessage(_.jid, bcgc, image, { caption: `*「 COSMIC  BROADCAST 」*\n*Group* : ${groupName}\n\n${body.slice(6)}` })
+DogeXeonOP.sendMessage(_.jid, bcgc, image, { caption: `*「 𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍  BROADCAST 」*\n*Group* : ${groupName}\n\n${body.slice(6)}` })
 }
 reply('')
 } else {
 for (let _ of groupMembers) {
-sendMess(_.jid, `*「 COSMC BROADCAST 」*\n*Group* : ${groupName}\n\n${body.slice(6)}`)
+sendMess(_.jid, `*「 𝙍𝘼𝙃𝙀𝙀𝙎 BROADCAST 」*\n*Group* : ${groupName}\n\n${body.slice(6)}`)
 }
 reply('Success broadcast group')
 }
@@ -4934,7 +4934,7 @@ reply(`${err}`)
     e = String(e)
     if (!e.includes("this.isZero") && !e.includes("jid")) {
 	console.log('Error : %s', color(e, 'red'))
-	DogeXeonOP.sendMessage(`${owner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────\n\nhttps://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "KHADHER",body:"Dont forget to follow khadher",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/logo1.jpg'),sourceUrl:"https://wa.me/917025191792"}}})
+	DogeXeonOP.sendMessage(`${owner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────\n\nhttps://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "𝙍𝘼𝙃𝙀𝙀𝙎",body:"Dont forget to follow 𝙍𝘼𝙃𝙀𝙀𝙎",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/logo1.jpg'),sourceUrl:"https://wa.me/917994206751"}}})
         }
 	// console.log(e)
 	}
